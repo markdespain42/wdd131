@@ -66,10 +66,10 @@ li:nth-of-type(3) {
     .content {
         border: 1px solid white;
     }
-    .logo-dark{
-    width: 30%;
-    display: block;
-    margin: 0 auto;
+    .logo{
+        width: 30%;
+        display: block;
+        margin: 0 auto;
     }
 
 }
